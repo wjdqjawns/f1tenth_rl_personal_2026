@@ -1,0 +1,27 @@
+vehicle:
+  wheelbase_m: 2.7
+  max_steer_deg: 30.0
+  max_accel_mps2: 3.0
+  max_decel_mps2: 6.0
+  max_speed_mps: 18.0
+
+track:
+  width_m: 6.0
+
+sim:
+  dt: 0.05
+  timeout_s: 60.0
+  target_speed_mps: 12.0
+  seed: 42
+
+controller:
+  name: rl
+
+rl:
+  timesteps: 120000
+  learning_rate: 0.0003
+  n_steps: 1024
+  batch_size: 64
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2

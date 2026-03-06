@@ -1,0 +1,30 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual env
+.venv/
+env/
+venv/
+
+# vscode
+.vscode/
+
+# logs
+*.log
+
+# experiments
+experiments/log/
+experiments/fig/
+experiments/data/
+
+# training outputs
+runs/
+models/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

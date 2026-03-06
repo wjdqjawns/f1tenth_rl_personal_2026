@@ -1,0 +1,22 @@
+experiment_name: pure_pursuit
+controller: pure_pursuit
+seed: 42
+render: false
+save_plots: true
+save_logs: true
+simulation:
+  dt: 0.05
+  max_time: 60.0
+  episodes: 1
+vehicle:
+  wheelbase: 2.7
+  max_steer_deg: 28.0
+  max_accel: 3.0
+  max_decel: 6.0
+  max_speed: 28.0
+controller_params:
+  lookahead_distance: 6.0
+  target_speed: 14.0
+track:
+  name: procedural_f1
+  width: 8.0
