@@ -1,0 +1,11 @@
+{
+  "controller": "rl",
+  "success": true,
+  "lap_time_s": 13.05,
+  "mean_speed_mps": 13.91221374045802,
+  "rms_lateral_error_m": 0.7669233077392876,
+  "mean_compute_ms": 0.14422817550009057,
+  "progress_m": 186.58840783968978,
+  "total_reward": 1599.6001726750276,
+  "step_csv": "experiments/data/rl_step_log.csv"
+}

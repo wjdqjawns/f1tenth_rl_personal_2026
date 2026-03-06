@@ -1,0 +1,10 @@
+{
+  "controller": "mpc",
+  "success": true,
+  "lap_time_s": 18.7,
+  "mean_speed_mps": 9.89484102569033,
+  "rms_lateral_error_m": 0.240855013479742,
+  "mean_compute_ms": 2.243151981393263,
+  "progress_m": 186.58840783968978,
+  "step_csv": "experiments/data/mpc_step_log.csv"
+}

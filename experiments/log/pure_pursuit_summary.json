@@ -1,0 +1,10 @@
+{
+  "controller": "pure_pursuit",
+  "success": true,
+  "lap_time_s": 17.25,
+  "mean_speed_mps": 10.598843930640967,
+  "rms_lateral_error_m": 0.29861737154985124,
+  "mean_compute_ms": 0.004912291790057254,
+  "progress_m": 186.1104295724576,
+  "step_csv": "experiments/data/pure_pursuit_step_log.csv"
+}

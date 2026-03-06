@@ -15,11 +15,6 @@ venv/
 # logs
 *.log
 
-# experiments
-experiments/log/
-experiments/fig/
-experiments/data/
-
 # training outputs
 runs/
 models/

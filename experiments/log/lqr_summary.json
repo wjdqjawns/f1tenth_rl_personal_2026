@@ -1,0 +1,10 @@
+{
+  "controller": "lqr",
+  "success": true,
+  "lap_time_s": 17.1,
+  "mean_speed_mps": 10.576530612396285,
+  "rms_lateral_error_m": 0.8500752139541679,
+  "mean_compute_ms": 0.300170166251479,
+  "progress_m": 186.58840783968978,
+  "step_csv": "experiments/data/lqr_step_log.csv"
+}
